@@ -1,4 +1,5 @@
 public class Store <T>
+where T :class,IHasId
 {
     
 private List<T> items = new();
