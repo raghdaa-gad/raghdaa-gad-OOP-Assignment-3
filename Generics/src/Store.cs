@@ -1,39 +1,36 @@
+using System.Linq;
+
 public class Store <T>
 where T :class,IHasId
 {
     
-private List<T> items = new();
+private Dictionary<int, T>  items = new();
  public void Add(T item)
 {
-    items.Add(item);
+    if (items.ContainsKey(item.Id))
+      {
+        throw new InvalidOperationException(
+            $"An item with ID {item.Id} already exists.");}
+    items.Add(item.Id,item);
 }
-
 public T? GetById(int id)
 {
-    foreach (T item in items)
+    if (items.TryGetValue(id, out T? item))
     {
-        if (item.Id == id)
-        {
-            return item;
-        }
+        return item;
     }
 
     return null;
 }
 
-public List<T> GetAll()
+public IReadOnlyCollection<T> GetAll()
 {
-    return items;
+    return items.Values.ToList().AsReadOnly();
 }
 
 public void Remove(int id)
 {
-    T? item = GetById(id);
-
-    if (item != null)
-    {
-        items.Remove(item);
-    }
+  items.Remove(id);
 }
 
 }
