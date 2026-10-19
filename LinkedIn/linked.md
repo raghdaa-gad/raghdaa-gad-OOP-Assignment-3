@@ -5,7 +5,7 @@ https://lnkd.in/p/e2JdHdg4
 
 - yield: https://lnkd.in/p/eQPvz_bT
   
-- Span<T>:
+- Span<T>: https://lnkd.in/p/eF_-Xwrh
   
 - Extension Members:
 
