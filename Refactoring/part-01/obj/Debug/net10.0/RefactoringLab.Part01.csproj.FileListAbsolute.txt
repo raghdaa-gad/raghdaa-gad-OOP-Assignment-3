@@ -1,0 +1,15 @@
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.exe
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.deps.json
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.runtimeconfig.json
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.dll
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\bin\Debug\net10.0\RefactoringLab.Part01.pdb
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.AssemblyInfoInputs.cache
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.AssemblyInfo.cs
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.csproj.CoreCompileInputs.cache
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.sourcelink.json
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.dll
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\refint\RefactoringLab.Part01.dll
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.pdb
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\RefactoringLab.Part01.genruntimeconfig.cache
+C:\Users\moham\Refactoring-OCP-DIP-Composition\part-01\obj\Debug\net10.0\ref\RefactoringLab.Part01.dll
